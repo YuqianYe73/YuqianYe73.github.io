@@ -26,8 +26,8 @@ author:
   avatar           : "avatarnew.png"
   name             : "Yuqian Ye"
   bio              : "Short biography for the left-hand sidebar"
-  employer         : "StanfordUniversity"
-  email            : "yuqianye@stanford.edu"
+  employer         : "Stanford University"
+  email            : yuqianye@stanford.edu
 
   # Academic websites
   academia         : # URL
