@@ -27,9 +27,7 @@ author:
   name             : "Yuqian Ye"
   bio              : "M.S. student in Mechanical Engineering at Stanford University"
   employer         : "Stanford University"
-  contact_email_text : "yuqianye [at] stanford.edu"
-  orcid_text         : "0009-0005-1462-1435"
-  # email            : "yuqianye[at]stanford.edu"
+  email            : "yuqianye[at]stanford.edu"
 
   # Academic websites
   academia         : # URL
@@ -37,7 +35,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0009-0005-1462-1435"
+  orcid            : "https://orcid.org/0009-0005-1462-1435"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
