@@ -14,21 +14,20 @@ Previously, I received my bachelor’s degree from Zhejiang University, where I 
 
 Education
 ======
+<i class="fas fa-university"></i> **Stanford University**  
+M.S. in Mechanical Engineering, 2024 – 2026 (Expected)  
 
+<i class="fas fa-university"></i> **Zhejiang University**  
+B.Eng. in Agricultural Engineering, 2020 – 2024  
+
+Awards
+======
+2025 ICRA Best Paper Award Finalist
+2025 IEEE ICRA Best Paper Award on Robot Manipulation and Locomotion Finalist
 
 Projects
 ======
 
-
-Publications
-======
-
-
-Awards
-======
-
-
-Site-wide configuration
 ------
 
 
