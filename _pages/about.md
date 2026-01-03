@@ -38,23 +38,22 @@ award2
 
 Projects
 ======
+
 FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
 ------
+
 <div class="proj-row">
   <div class="proj-media">
     <video controls muted playsinline preload="metadata">
       <source src="/images/FBG-camera.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="font-size: 0.9em; color: #666; margin-top: 0.4em;">
-      Multi-camera vision-based validation of a single-finger FBG sensing prototype.
-    </p>
   </div>
   <div class="proj-text">
     <p>
-      • Led the design of a modular Fiber Bragg Grating (FBG)-based wearable sensing prototype to capture high-resolution finger motion and normal force while maintaining wearing comfort.
-      • Developed and validated a first-generation single-finger sensing module, including finger bending and tactile force measurement.
-      • Built a multi-camera vision system and integrated pose estimation to provide ground-truth validation of sensing accuracy.
+      • Led the design of a modular Fiber Bragg Grating (FBG)-based wearable sensing prototype to capture high-resolution finger motion and normal force while maintaining wearing comfort.  
+      • Developed and validated a first-generation single-finger sensing module, including finger bending and tactile force measurement.  
+      • Built a multi-camera vision system and integrated pose estimation to provide ground-truth validation of sensing accuracy.  
       • Established a scalable foundation for collecting high-quality human demonstration data for tactile-informed control and imitation learning in contact-rich robotic tasks.
     </p>
   </div>
