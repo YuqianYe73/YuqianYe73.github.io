@@ -38,8 +38,9 @@ award2
 
 Projects
 ======
+FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
+------
 <div class="proj-row">
-  
   <div class="proj-media">
     <video controls muted playsinline preload="metadata">
       <source src="/images/FBG-camera.mp4" type="video/mp4">
@@ -49,31 +50,13 @@ Projects
       Multi-camera vision-based validation of a single-finger FBG sensing prototype.
     </p>
   </div>
-
   <div class="proj-text">
-    <h3>FBG-Based Wearable Glove for Hand Motion and Tactile Sensing</h3>
-
     <p>
-      We developed a single-finger, modular FBG-based wearable sensing prototype
-      to capture high-resolution finger motion and normal force during fine motor
-      tasks. Rather than immediately building a full glove, the single-finger
-      design serves as a representative sensing unit to systematically validate
-      sensing fidelity, comfort, and data quality.
+      • Led the design of a modular Fiber Bragg Grating (FBG)-based wearable sensing prototype to capture high-resolution finger motion and normal force while maintaining wearing comfort.
+      • Developed and validated a first-generation single-finger sensing module, including finger bending and tactile force measurement.
+      • Built a multi-camera vision system and integrated pose estimation to provide ground-truth validation of sensing accuracy.
+      • Established a scalable foundation for collecting high-quality human demonstration data for tactile-informed control and imitation learning in contact-rich robotic tasks.
     </p>
-
-    <p>
-      A multi-camera vision system is used to provide ground-truth motion capture
-      for quantitative evaluation. This validated finger-level module establishes
-      a scalable foundation for future multi-finger integration toward
-      tactile-informed control and imitation learning.
-    </p>
-
-    <ul>
-      <li>Fiber Bragg Grating (FBG) sensing for motion and force capture</li>
-      <li>Comfort-aware wearable design for fine motor tasks</li>
-      <li>Multi-camera vision-based validation pipeline</li>
-    </ul>
   </div>
-
 </div>
 
