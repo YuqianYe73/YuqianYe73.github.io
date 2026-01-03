@@ -38,7 +38,8 @@ award2
 
 Projects
 ======
-
+<div class="proj-row">
+  
   <div class="proj-media">
     <video controls muted playsinline preload="metadata">
       <source src="/images/FBG-camera.mp4" type="video/mp4">
