@@ -33,17 +33,13 @@ Selected Awards & Honors
     </span>
   </a>
 </p>
-
 <p>
   <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
     Zhejiang University Outstanding Graduate<br>
-  </a>
 </p>
-
 <p>
   <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
     Zhejiang University First-Class Academic Scholarship<br>
-  </a>
 </p>
 
 Projects
