@@ -104,7 +104,7 @@ Robotic Micro-nano Manipulation Lab, Zhejiang University
     Youchao Zhang, Fanghao Wang, <strong>Yuqian Ye</strong>, Xiangyu Guo, Xiao Wang, Alois Knoll, Yixian Wang, Changsheng Dai, Yibin Ying, and Mingchuan Zhou
   </p>
   <p>
-    <strong>Accepted by IEEE Transactions on Automation Science and Engineering</strong>
+    Accepted by IEEE Transactions on Automation Science and Engineering
   </p>
   <p>
     <a href="https://ieeexplore.ieee.org/document/10811828" target="_blank">[paper]</a>
