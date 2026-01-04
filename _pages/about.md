@@ -67,3 +67,26 @@ FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
   </div>
 </div>
 
+TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency
+------
+**Field Autonomous System & compuTing Lab, Zhejiang University**  
+*Supervised by Prof. Fei Gao and Prof. Yanjun Cao · Sept 2023 – May 2024*
+<div class="proj-row">
+  <div class="proj-media">
+    <video controls muted playsinline preload="metadata">
+      <source src="/images/troftbot.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="proj-text">
+  <p>
+    Mingwei Lai, <strong>Yuqian Ye</strong>, Hanyu Wu, Chice Xuan, Ruibin Zhang, QiuyuRen, Chao Xu, Fei Gao and Yanjun Cao
+  </p>
+  <p>
+    <strong>2025 ICRA Best Paper Award Finalist</strong>strong>
+  </p>
+  <p>
+    <a href="https://ieeexplore.ieee.org/document/11128779" target="_blank">[paper]</a>
+  </p>
+  </div>
+</div>
