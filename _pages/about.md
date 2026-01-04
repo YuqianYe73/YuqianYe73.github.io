@@ -44,7 +44,6 @@ Selected Awards & Honors
 
 Projects
 ======
-
 FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
 ------
 Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University  
@@ -54,7 +53,6 @@ Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University
   <div class="proj-media">
     <video controls muted playsinline preload="metadata">
       <source src="/images/FBG-camera.mp4" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
   </div>
   <div class="proj-text">
@@ -75,7 +73,6 @@ Field Autonomous System & compuTing Lab, Zhejiang University
   <div class="proj-media">
     <video controls muted playsinline preload="metadata">
       <source src="/images/trofybot.mp4" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
   </div>
   <div class="proj-text">
@@ -87,6 +84,30 @@ Field Autonomous System & compuTing Lab, Zhejiang University
   </p>
   <p>
     <a href="https://ieeexplore.ieee.org/document/11128779" target="_blank">[paper]</a>
+  </p>
+  </div>
+</div>
+
+Enhanced Automated Cell Micromanipulation via Programmable Magnetic Microgripper Design
+------
+Robotic Micro-nano Manipulation Lab, Zhejiang University  
+*Supervised by Prof. Mingchuan Zhou · Mar 2023 – Aug 2023*
+<div class="proj-row">
+  <div class="proj-media">
+    <video controls muted playsinline preload="metadata">
+      <source src="/images/trofybot.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="proj-text">
+  <p>
+    Youchao Zhang, Fanghao Wang, <strong>Yuqian Ye</strong>, Xiangyu Guo, Xiao Wang, Alois Knoll, Yixian Wang, Changsheng Dai, Yibin Ying, and Mingchuan Zhou
+  </p>
+  <p>
+    <strong>Accepted by IEEE Transactions on Automation Science and Engineering</strong>
+  </p>
+  <p>
+    <a href="https://ieeexplore.ieee.org/document/10811828" target="_blank">[paper]</a>
   </p>
   </div>
 </div>
