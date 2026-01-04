@@ -41,6 +41,8 @@ Projects
 
 FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
 ------
+**Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University**  
+*Supervised by Prof. Mark Cutkosky · Feb 2025 – Present*
 
 <div class="proj-row">
   <div class="proj-media">
@@ -50,15 +52,11 @@ FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
     </video>
   </div>
   <div class="proj-text">
-    <p>
-      • Led the design of a modular Fiber Bragg Grating (FBG)-based wearable sensing prototype to capture high-resolution finger motion and normal force while maintaining wearing comfort.  
-      
-      • Developed and validated a first-generation single-finger sensing module, including finger bending and tactile force measurement.  
-      
-      • Built a multi-camera vision system and integrated pose estimation to provide ground-truth validation of sensing accuracy.  
-      
-      • Established a scalable foundation for collecting high-quality human demonstration data for tactile-informed control and imitation learning in contact-rich robotic tasks.
-    </p>
+    <ul>
+      <li>Designed and validated an FBG-based wearable sensor for finger motion and force sensing.</li>
+      <li>Built a multi-camera vision system and integrated pose estimation to provide ground-truth validation of sensing accuracy.</li>
+      <li>Enabled high-quality demonstration data collection for tactile-informed control and imitation learning.</li>
+    </ul>
   </div>
 </div>
 
