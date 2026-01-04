@@ -22,7 +22,7 @@ M.S. in Mechanical Engineering, 2024 – 2026 (Expected)
 <i class="fas fa-university"></i> [**Zhejiang University**](https://www.zju.edu.cn/english/)  
 B.Eng. in Agricultural Engineering, 2020 – 2024  
 
-Awards
+Selected Awards & Honors
 ======
 <p>
   <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
@@ -34,7 +34,17 @@ Awards
   </a>
 </p>
 
-award2
+<p>
+  <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
+    Zhejiang University Outstanding Graduate<br>
+  </a>
+</p>
+
+<p>
+  <i class="fas fa-medal" style="color: #D4AF37; margin-right: 6px;"></i>
+    Zhejiang University First-Class Academic Scholarship<br>
+  </a>
+</p>
 
 Projects
 ======
