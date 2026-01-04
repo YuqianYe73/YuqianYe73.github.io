@@ -79,9 +79,9 @@ MSL (Multi-Robot Systems Lab), Stanford University
   </div>
   <div class="proj-text">
     <ul>
-      <li>Addressed sim2real gap of GRaD-Nav<a href="https://arxiv.org/abs/2503.03984" target="_blank">, where the drone cannot complete long and full trajectories in the real world, by integrating real human demonstrations with simulation data for imitation learning and using IL to warm-start RL.</li>
-      <li>Collected 90 human demonstrations combined with simulation data to train a robust IL policy..</li> 
-      <li>Applied domain randomization and Domain-Adversarial Neural Network (DANN) techniques to improve IL policy transfer and real-world deployment robustness.</li>
+      <li>Addressed the sim-to-real gap of <a href="https://arxiv.org/abs/2503.03984" target="_blank">GRaD-Nav</a> by combining real human demonstrations with simulation data and using IL to warm-start RL.</li>
+      <li>Collected 90 human demonstrations, together with simulation data, to train a robust IL policy.</li>
+      <li>Applied domain randomization and Domain-Adversarial Neural Networks (DANN) to improve policy transfer and real-world robustness.</li>
     </ul>
   </div>
 </div>
