@@ -94,10 +94,10 @@ Robotic Micro-nano Manipulation Lab, Zhejiang University
 *Supervised by Prof. Mingchuan Zhou · Mar 2023 – Aug 2023*
 <div class="proj-row">
   <div class="proj-media">
-    <video controls muted playsinline preload="metadata">
+    <img controls muted playsinline preload="metadata">
       <source src="/images/maggripper.png" type="image/png">
       Your browser does not support the video tag.
-    </video>
+    </img>
   </div>
   <div class="proj-text">
   <p>
