@@ -80,7 +80,6 @@ MSL (Multi-Robot Systems Lab), Stanford University
   <div class="proj-text">
     <ul>
       <li>Addressed the sim-to-real gap of <a href="https://arxiv.org/abs/2503.03984" target="_blank">GRaD-Nav</a> by combining real human demonstrations with simulation data and using IL to warm-start RL.</li>
-      <li>Collected 90 human demonstrations, together with simulation data, to train a robust IL policy.</li>
       <li>Applied domain randomization and Domain-Adversarial Neural Networks (DANN) to improve policy transfer and real-world robustness.</li>
     </ul>
   </div>
