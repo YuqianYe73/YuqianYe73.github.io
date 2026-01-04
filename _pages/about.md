@@ -44,6 +44,7 @@ Selected Awards & Honors
 
 Projects
 ======
+
 FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
 ------
 Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University  
@@ -64,6 +65,8 @@ Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University
     </ul>
   </div>
 </div>
+
+
 
 TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency
 ------
