@@ -47,7 +47,7 @@ Projects
 
 FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
 ------
-**Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University**  
+Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University  
 *Supervised by Prof. Mark Cutkosky · Feb 2025 – Present*
 
 <div class="proj-row">
@@ -69,7 +69,7 @@ FBG-Based Wearable Glove for Hand Motion and Tactile Sensing
 
 TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency
 ------
-**Field Autonomous System & compuTing Lab, Zhejiang University**  
+Field Autonomous System & compuTing Lab, Zhejiang University  
 *Supervised by Prof. Fei Gao and Prof. Yanjun Cao · Sept 2023 – May 2024*
 <div class="proj-row">
   <div class="proj-media">
