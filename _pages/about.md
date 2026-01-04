@@ -66,7 +66,23 @@ Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University
   </div>
 </div>
 
+Addressing Sim-to-real Gap of Learning-based Drone Navigation
+------
+MSL (Multi-Robot Systems Lab), Stanford University
+*Supervised by Prof. Mac Schwager · Jul 2025 – Present*
 
+<div class="proj-row">
+  <div class="proj-media">
+    <img src="/images/gradnav.png" alt="Addressing sim2real pipeline">
+  </div>
+  <div class="proj-text">
+    <ul>
+      <li>Addressed sim2real gap of GRaD-Nav, where the drone cannot complete long and full trajectories in the real world, by integrating real human demonstrations with simulation data for imitation learning and using IL to warm-start RL.</li>
+      <li>Collected 90 human demonstrations combined with simulation data to train a robust IL policy..</li> 
+      <li>Applied domain randomization and Domain-Adversarial Neural Network (DANN) techniques to improve IL policy transfer and real-world deployment robustness.</li>
+    </ul>
+  </div>
+</div>
 
 TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency
 ------
