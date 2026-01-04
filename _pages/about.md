@@ -95,7 +95,7 @@ Robotic Micro-nano Manipulation Lab, Zhejiang University
 <div class="proj-row">
   <div class="proj-media">
     <video controls muted playsinline preload="metadata">
-      <source src="/images/trofybot.mp4" type="video/mp4">
+      <source src="/images/maggripper.png" type="image/png">
       Your browser does not support the video tag.
     </video>
   </div>
