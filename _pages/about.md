@@ -73,6 +73,9 @@ MSL (Multi-Robot Systems Lab), Stanford University
 
 <div class="proj-row">
   <div class="proj-media">
+    <img src="/images/gradnav2.png"
+      alt="GRaD-Nav overview"
+      class="proj-image">
     <video controls muted playsinline preload="metadata">
       <source src="/images/gradnav.mp4" type="video/mp4">
     </video>
