@@ -68,7 +68,7 @@ Biomimetics & Dexterous Manipulation Lab (BDML), Stanford University
 
 Addressing Sim-to-real Gap of Learning-based Drone Navigation
 ------
-MSL (Multi-Robot Systems Lab), Stanford University
+MSL (Multi-Robot Systems Lab), Stanford University  
 *Supervised by Prof. Mac Schwager · Jul 2025 – Present*
 
 <div class="proj-row">
@@ -83,7 +83,8 @@ MSL (Multi-Robot Systems Lab), Stanford University
   <div class="proj-text">
     <ul>
       <li>Addressed the sim-to-real gap of <a href="https://arxiv.org/abs/2503.03984" target="_blank">GRaD-Nav</a> by combining real human demonstrations with simulation data and using IL to warm-start RL.</li>
-      <li>Applied domain randomization and Domain-Adversarial Neural Networks (DANN) to improve policy transfer and real-world robustness.</li>
+      <li>Collected 90 human demonstrations combined with simulation data to train a robust IL policy.</li>
+      <li>Applied domain randomization and Domain-Adversarial Neural Network (DANN) techniques to improve IL policy transfer and real-world deployment robustness.</li>
     </ul>
   </div>
 </div>
